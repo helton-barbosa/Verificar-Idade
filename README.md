@@ -1,2 +1,2 @@
 # Verificar-Idade
- Verifica a idade
+ Mostra a idade e uma imagem correspondente.
