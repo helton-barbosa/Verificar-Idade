@@ -21,8 +21,14 @@ div{
    padding: 8px;
 }
 
+input#txtano{
+   background: rgb(186, 209, 243);
+   border: inherit;
+}
+
 footer{
    color: white;
    text-align: center;
    font-style: italic;
+   background: rgb(80, 80, 125);
 }
